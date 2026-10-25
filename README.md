@@ -1,4 +1,4 @@
-# test_rea — Dino Lab
+# chrome-dinosaur-game — Dino Lab
 
 A small browser game whose speed rule is adjustable, built after using
 [REA (Reverse Engineer Anything)](https://github.com/morluto/rea) to find out
